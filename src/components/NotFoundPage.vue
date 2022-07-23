@@ -11,7 +11,7 @@
 
     </div>
 
-    <div class="w-1/2 h-full bg-gray-100 flex" v-show="!show">
+    <div class="w-full lg:w-1/2 h-full bg-gray-100 flex" v-show="!show">
         <h1 class="text-gray-700 m-auto"><i>Page Not Found</i></h1>
     </div>
 
